@@ -1,0 +1,115 @@
+    1  git tree
+    2  tree
+    3  tree -a
+    4  git init
+    5  tree
+    6  tree -a
+    7  tree -a
+    8  git config user.name
+    9  git config user.name "Illia"
+   10  git config user.email tyky42212@gmail.com
+   11  cat .git/config
+   12  git remote add origin https://github.com/bebrabimba/Repozytorium.git
+   13  git remote add origin https://github.com/bebrabimba/Repozytorium
+   14  git init
+   15  git status
+   16  git commit -m "first commit"
+   17  git remote add origin https://github.com/bebrabimba/Repozytorium.git
+   18  git status
+   19  git pull
+   20  git log
+   21  log
+   22  git status
+   23  git clone https://github.com/bebrabimba/Repozytorium.git
+   24  git status
+   25  git log
+   26  git commit
+   27  git log
+   28  git add readme_illia.tx
+   29  git commit -m "Dodanie pliku readme_illia.txt"
+   30  git log
+   31  git branch -a
+   32  git checkout -b ILLIA_HELLO
+   33  echo "Hello World" > readme_illia.txt
+   34  git log
+   35  history
+   36  git reset --soft HEAD~1
+   37  git log
+   38  git checkout dev
+   39  git checkout -b dev
+   40  ls
+   41  git log --oneline --decorate
+   42  git fetch origin
+   43  git status
+   44  git log --oneline --decorate
+   45  git merge IMIE_HELLO
+   46  git merge ILLIA_HELLO
+   47  git status
+   48  git log
+   49  git push origin dev
+   50  git push origin dev
+   51  git push origin -b dev
+   52  git push -b origin dev
+   53  git init
+   54  git log
+   55  git status
+   56  git init
+   57  git status
+   58  git init
+   59  git log
+   60  git bramch -a
+   61  git branch -a
+   62  git checkout -b ILLIA_HELLO
+   63  echo "Hello World" > readme_illia.txt
+   64  git add readme_illia.txt
+   65  git commit -m "Dodanie pliku readme_imie.txt"
+   66  git clone https://github.com/bebrabimba/Repozytorium.git
+   67  git log
+   68  git init
+   69  git log
+   70  git log
+   71  git branch -a
+   72  git checkout -b ILLIA_HELLO
+   73  echo "Hello World" > readme_illia.txt
+   74  git add readme_illia.txt
+   75  git commit -m "Dodanie pliku readme_illia.txt"
+   76  git clone https://github.com/bebrabimba/Repozytorium.git
+   77  cd repozytorium
+   78  git log
+   79  git branch -a
+   80  git checkout -b ILLIA_HELLO
+   81  git branch -a
+   82  echo "Hello World" > readme_illia.txt
+   83  git add readme_illia.txt
+   84  git commit -m "Dodanie pliku readme_illia.txt"
+   85  git config --global user.email tyky42212@gmail.com
+   86  git config --global user.name ILLIA
+   87  git commit -m "Dodanie pliku readme_illia.txt"
+   88  echo "Plik do usunięcia" > usun_illia.txt
+   89  git add usun_imie.txt
+   90  git add usun_illia.txt
+   91  git commit -m "Dodanie pliku usun_illia.txt"
+   92  echo "Ukryty plik" > ukryty_illia.txt
+   93  git add ukryty_illia.txt
+   94  git commit -m "Dodanie pliku ukryty_illia.txt"
+   95  git log
+   96  git log
+   97  git commit --allow-empty -m "Dodanie pliku Readme_Imie"
+   98  git log --oneline
+   99  git checkout -b dev
+  100  git checkout dev
+  101  git log --oneline
+  102  git pull origin dev
+  103  git log --oneline
+  104  git merge ILLIA_HELLO
+  105  git push origin dev
+  106  git log --oneline
+  107  git branch -d ILLIA_HELLO
+  108  git branch -a
+  109  git checkout -b ILLIA_TEST
+  110  git status
+  111  git checkout -b dev
+  112  git checkout dev
+  113  git status
+  114  ls
+  115  history > historia_polecen.txt

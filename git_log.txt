@@ -1,0 +1,29 @@
+commit d1ad46ab99f3c7897859eaa2015ab1c6d8e2d691
+Author: ILLIA <tyky42212@gmail.com>
+Date:   Tue Nov 5 17:02:31 2024 +0100
+
+    Dodanie pliku Readme_Imie
+
+commit 33df08ed86f9ffc075d5f3d8f883c7cae3e40bad
+Author: ILLIA <tyky42212@gmail.com>
+Date:   Tue Nov 5 16:59:22 2024 +0100
+
+    Dodanie pliku ukryty_illia.txt
+
+commit 39f86924650f4dbc2f2f42deb3178b1a30c777e9
+Author: ILLIA <tyky42212@gmail.com>
+Date:   Tue Nov 5 16:58:42 2024 +0100
+
+    Dodanie pliku usun_illia.txt
+
+commit 70965b064feb5d3c2e7210ae54abdbc82b88981a
+Author: ILLIA <tyky42212@gmail.com>
+Date:   Tue Nov 5 16:57:18 2024 +0100
+
+    Dodanie pliku readme_illia.txt
+
+commit d1eac08ce60f4e4084524b9144e6b3600412cfa9
+Author: bebrabimba <tyky42212@gmail.com>
+Date:   Thu Oct 17 14:04:59 2024 +0200
+
+    Create bebra
